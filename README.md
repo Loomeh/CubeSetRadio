@@ -1,5 +1,4 @@
 # CubeSetRadio
-Experience Jet Set Radio in the best way possible
 
 You can only play as Cube.
 
